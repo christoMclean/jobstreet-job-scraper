@@ -1,0 +1,5 @@
+{
+  "proxy": null,
+  "timeoutSeconds": 10,
+  "maxRetries": 3
+}
