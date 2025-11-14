@@ -1,0 +1,8 @@
+{
+  "searchUrls": [
+    "https://ph.jobstreet.com/example",
+    "https://sg.jobstreet.com/example"
+  ],
+  "maxItems": 5,
+  "includeDescriptionHtml": true
+}
